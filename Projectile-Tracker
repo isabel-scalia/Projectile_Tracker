@@ -1,6 +1,6 @@
 """Projectile Tracker by Group 5 for Dennis Moreno's EGR115 at ERAU Sping 2026"""
 import math
-import  as pro12
+import Projectile_Functions as pro12
 
 launch_velocity, launch_height, launch_angle = pro12.projectile_setup()
 
