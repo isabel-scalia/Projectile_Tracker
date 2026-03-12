@@ -1,4 +1,4 @@
-Projectile Tracker – EGR115: Group 5
+#Projectile Tracker – EGR115: Group 5
 Group Members
 Josiah Dowell, Daniel Enriquez Calderon, Maccabee Meinig, Isabel Scalia, Gavin Sorenson
 Overview of the Project
