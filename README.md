@@ -36,7 +36,7 @@ Projectile_Functions.py (the function library) contains these functions:
 7. Velocity at Time
 
 ## Example Code Output
-###Graph:
+### Graph:
 ![Projectile Graph](PRESENTATION_GRAPH.png)
 
 ### User Inputs:
