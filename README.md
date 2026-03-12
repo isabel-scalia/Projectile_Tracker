@@ -46,9 +46,9 @@ Launch Angle (degrees about the horizontal): 30°
 
 ## Physics Model
 This project models projectile motion assuming:
-Gravity = 9.81 $m/s^2$
-There is no air resistance
-Two dimensional motion
+- Gravity = 9.81 $m/s^2$
+- There is no air resistance
+- Two dimensional motion
 
 The trajectory is calculated by using this equation:
 $$
