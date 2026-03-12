@@ -56,7 +56,7 @@ y = x\tan(\theta) - \frac{g x^2}{2 v^2 \cos^2(\theta)} + h
 $$
 
 Where:
-v  = initial launch velocity
-Θ = launch angle
-h  = launch height
-g  = gravity
+- v  = initial launch velocity
+- Θ = launch angle
+- h  = launch height
+- g  = gravity
